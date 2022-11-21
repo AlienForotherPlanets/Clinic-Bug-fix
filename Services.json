@@ -1,0 +1,214 @@
+[
+    {
+        "ServiceFullName": "Consultation",
+        "ServiceSortName": "Con"
+    },
+    {
+        "ServiceFullName": "X ray",
+        "ServiceSortName": "X ray"
+    },
+    {
+        "ServiceFullName": "OPG",
+        "ServiceSortName": "OPG"
+    },
+    {
+        "ServiceFullName": "Scaling",
+        "ServiceSortName": "Sc"
+    },
+    {
+        "ServiceFullName": "Filling",
+        "ServiceSortName": "Filling"
+    },
+    {
+        "ServiceFullName": "Ag filling",
+        "ServiceSortName": "Ag"
+    },
+    {
+        "ServiceFullName": "Gi Filling",
+        "ServiceSortName": "Gi Filling"
+    },
+    {
+        "ServiceFullName": "Bridge Impression",
+        "ServiceSortName": "Bri"
+    },
+    {
+        "ServiceFullName": "Fcc Impression",
+        "ServiceSortName": "Fcc"
+    },
+    {
+        "ServiceFullName": "Bridge cementation",
+        "ServiceSortName": "Cem"
+    },
+    {
+        "ServiceFullName": "Fcc Cementation",
+        "ServiceSortName": "cem"
+    },
+    {
+        "ServiceFullName": "Bleachig",
+        "ServiceSortName": "Bleaching"
+    },
+    {
+        "ServiceFullName": "Rpd Impression",
+        "ServiceSortName": "Rpd Imp"
+    },
+    {
+        "ServiceFullName": "Bite",
+        "ServiceSortName": "Bite"
+    },
+    {
+        "ServiceFullName": "FS 1",
+        "ServiceSortName": "FS 1"
+    },
+    {
+        "ServiceFullName": "FS 2",
+        "ServiceSortName": "FS 2"
+    },
+    {
+        "ServiceFullName": "FS 3",
+        "ServiceSortName": "FS 3"
+    },
+    {
+        "ServiceFullName": "Trial",
+        "ServiceSortName": "Trial"
+    },
+    {
+        "ServiceFullName": "Denture delivery",
+        "ServiceSortName": "Dd"
+    },
+    {
+        "ServiceFullName": "Rpd delivery",
+        "ServiceSortName": "Dd"
+    },
+    {
+        "ServiceFullName": "Night guard Imression",
+        "ServiceSortName": "N.G. Imp"
+    },
+    {
+        "ServiceFullName": "Night guard delivered",
+        "ServiceSortName": "N.G. Idel"
+    },
+    {
+        "ServiceFullName": "Implant Nobel",
+        "ServiceSortName": "Implant"
+    },
+    {
+        "ServiceFullName": "Implant Straumnn",
+        "ServiceSortName": "Implant"
+    },
+    {
+        "ServiceFullName": "Implant Osstem",
+        "ServiceSortName": "Implant"
+    },
+    {
+        "ServiceFullName": "Implant prosthesis Impression",
+        "ServiceSortName": "Imlant Imp"
+    },
+    {
+        "ServiceFullName": "Implant prosthesis cementation",
+        "ServiceSortName": "Cem"
+    },
+    {
+        "ServiceFullName": "Rc Opening",
+        "ServiceSortName": "Rco"
+    },
+    {
+        "ServiceFullName": "Rc dressing",
+        "ServiceSortName": "Rcd"
+    },
+    {
+        "ServiceFullName": "Rcf",
+        "ServiceSortName": "Rcf"
+    },
+    {
+        "ServiceFullName": "Old Fcc removal",
+        "ServiceSortName": "Fcc rem"
+    },
+    {
+        "ServiceFullName": "Old Bridge removal",
+        "ServiceSortName": "Bridge rem"
+    },
+    {
+        "ServiceFullName": "Flushing & Dressing",
+        "ServiceSortName": "F&D"
+    },
+    {
+        "ServiceFullName": "Aligner Impresson",
+        "ServiceSortName": "Aligner Imp"
+    },
+    {
+        "ServiceFullName": "Ortho treatment planning",
+        "ServiceSortName": "Ortho"
+    },
+    {
+        "ServiceFullName": "Composite filling",
+        "ServiceSortName": "Lcc"
+    },
+    {
+        "ServiceFullName": "Remodelling",
+        "ServiceSortName": "remodelling"
+    },
+    {
+        "ServiceFullName": "Splinting",
+        "ServiceSortName": "Splinting"
+    },
+    {
+        "ServiceFullName": "Sc 1",
+        "ServiceSortName": "Sc 1"
+    },
+    {
+        "ServiceFullName": "Sc 2",
+        "ServiceSortName": "Sc 2"
+    },
+    {
+        "ServiceFullName": "Sc 3",
+        "ServiceSortName": "Sc 3"
+    },
+    {
+        "ServiceFullName": "Localised scaling",
+        "ServiceSortName": "Loc. Sc"
+    },
+    {
+        "ServiceFullName": "Flap surgery",
+        "ServiceSortName": "Flap Surgery"
+    },
+    {
+        "ServiceFullName": "Extraction",
+        "ServiceSortName": "Ext"
+    },
+    {
+        "ServiceFullName": "Refilling",
+        "ServiceSortName": "Refilling"
+    },
+    {
+        "ServiceFullName": "Bridge recementation",
+        "ServiceSortName": "Re cem"
+    },
+    {
+        "ServiceFullName": "Fcc recementation",
+        "ServiceSortName": "Re cem"
+    },
+    {
+        "ServiceFullName": "Temp. Impression",
+        "ServiceSortName": "Temp. Imp"
+    },
+    {
+        "ServiceFullName": "Temp. cementation",
+        "ServiceSortName": "Temp. Cem"
+    },
+    {
+        "ServiceFullName": "Kalzinol Filling",
+        "ServiceSortName": "Kal"
+    },
+    {
+        "ServiceFullName": "Endoflass & kalzinol Filling",
+        "ServiceSortName": "Endoflass & kal"
+    },
+    {
+        "ServiceFullName": "Relining Impression",
+        "ServiceSortName": "Relining"
+    },
+    {
+        "ServiceFullName": "Bleaching tray Impression",
+        "ServiceSortName": "Bl. Tray Imp"
+    }
+]
